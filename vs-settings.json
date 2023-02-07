@@ -1,0 +1,141 @@
+{
+    "[r]": {
+        "editor.defaultFormatter": "REditorSupport.r",
+        "editor.formatOnSave": true,
+        "editor.wordSeparators": "`~!@#%$^&*()-=+[{]}\\|;:'\",<>/?"
+    },
+    "[rmd]": {
+        "editor.defaultFormatter": "REditorSupport.r",
+        "editor.formatOnSave": true
+    },
+    "[qmd]": {
+        "editor.defaultFormatter": "REditorSupport.r",
+        "editor.formatOnSave": true
+    },
+    "files.associations": {
+        "*.rmd": "rmarkdown",
+        "*.Rmd": "rmarkdown",
+        "*.qmd": "quarto",
+        "*.Qmd": "quarto",
+        "*.R": "r"
+    },
+    "kite.showWelcomeNotificationOnStartup": false,
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "[handlebars]": {
+        "editor.suggest.insertMode": "replace"
+    },
+    "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
+    "python.pythonPath": "",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.minimap.enabled": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "jupyter.askForKernelRestart": false,
+    "python.defaultInterpreterPath": "/Users/abhijit/opt/anaconda3/envs/anly503/bin/python",
+    "r.sessionWatcher": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+        80,
+        100
+    ],
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "right"
+    },
+    "python.venvFolders": [
+        "python-envs"
+    ],
+    "markdown-preview-enhanced.mermaidTheme": "dark",
+    "python.autoComplete.addBrackets": true,
+    "python.analysis.completeFunctionParens": true,
+    "screencastMode.onlyKeyboardShortcuts": true,
+    "screencastMode.fontSize": 30,
+    "screencastMode.keyboardOverlayTimeout": 1600,
+    "screencastMode.keyboardShortcutsFormat": "keys",
+    "r.lsp.use_stdio": true,
+    "r.plot.defaults.fullWindowMode": true,
+    "r.plot.defaults.plotPreviewLayout": "scroll",
+    "r.rmarkdown.knit.openOutputFile": true,
+    "r.rterm.option": [],
+    "r.workspaceViewer.removeHiddenItems": true,
+    "r.workspaceViewer.showObjectSize": true,
+    "r.rpath.mac": "/usr/local/bin/R",
+    "bracketPairColorizer.depreciation-notice": false,
+    "python.experiments.enabled": false,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.activateEnvironment": false,
+    "latex-workshop.view.pdf.viewer": "external",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "files.insertFinalNewline": true,
+    "workbench.colorTheme": "Dracula",
+    "autoDocstring.startOnNewLine": true,
+    "autoDocstring.docstringFormat": "pep257",
+    "autoDocstring.includeName": true,
+    "rmarkdown.blogdown.author": "Abhijit Dasgupta",
+    "gitlens.defaultDateStyle": "absolute",
+    "sync.gist": "cb5a8067b8ce73c3433faf60c12f1d77",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "git.ignoreLegacyWarning": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "remote.SSH.defaultForwardedPorts": [],
+    "terminal.integrated.profiles.linux": {
+        "tmux": {
+            "path": "/opt/scp/software/tmux/3.2a-GCCcore-10.3.0/bin/tmux",
+            "args": [
+                "new-session",
+                "-A",
+                "-s",
+                "vscode-${workspaceFolderBasename}"
+            ],
+        },
+    },
+    "terminal.integrated.defaultProfile.linux": "tmux",
+    "terminal.external.linuxExec": "tmux",
+    "quarto.path": "/usr/local/bin/quarto",
+    "quarto.mathjax.theme": "dark",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "security.workspace.trust.untrustedFiles": "open",
+    "settingsSync.ignoredSettings": [
+        "-python.venvPath"
+    ],
+    "r.alwaysUseActiveTerminal": true,
+    "r.plot.useHttpgd": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]",
+        "QUESTION"
+    ],
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.fontLigatures": true,
+    "window.zoomLevel": 2,
+    "chatgpt.token": "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",
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.tabCompletion": "onlySnippets",
+    "r.lsp.debug": true,
+    "quarto.render.renderOnSave": true,
+    "r.bracketedPaste": true,
+    "r.rterm.mac": "/usr/local/bin/radian",
+}
